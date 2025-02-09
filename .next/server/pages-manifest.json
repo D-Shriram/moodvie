@@ -1,0 +1,9 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/recommendations": "pages/recommendations.js",
+  "/api/trpc/[trpc]": "pages/api/trpc/[trpc].js",
+  "/history": "pages/history.js",
+  "/": "pages/index.js"
+}
