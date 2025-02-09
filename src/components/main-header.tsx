@@ -47,7 +47,7 @@ export const MainHeader = () => {
           <NavigationMenuList>
             <NavigationMenuItem>
               <a
-                href="https://github.com/edwardsavin/moodvie"
+                href="https://github.com/D-Shriram/moodvie"
                 target="_blank"
                 rel="noopener noreferrer"
               >
