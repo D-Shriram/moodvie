@@ -27,7 +27,7 @@ const MainFooter = () => (
           className="text-xl font-semibold text-green-500 hover:text-green-700"
           target="_blank"
         >
-          Edward Savin
+          Shriram
         </a>
       </div>
     </div>
